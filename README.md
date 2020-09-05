@@ -48,10 +48,10 @@ You will also see any lint errors in the console.
 
 - Run folling command       
 
-        ```bash
+        
         cd backend
         nodemone
-        ```
+        
 
 ### `npm test`
 
