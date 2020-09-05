@@ -1,6 +1,9 @@
  # SRIM - Summer research internship management
 
 ## Details : - 
+-  frontend with React, material ui
+-  backend with nodejs express js, 
+-  database with Mongodb
 
 ## Backend : -
 
