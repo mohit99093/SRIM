@@ -1,0 +1,4 @@
+export const EDIT_TIMELINE = "EDIT_TIMELINE"
+export const INTIAL = "INTIAL"
+export const EDIT_LOADER = "EDIT_LOADER"
+export const EDIT_ALL_STUDENTS = "EDIT_ALL_STUDENTS"

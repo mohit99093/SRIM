@@ -1,0 +1,11 @@
+export const ADD_TOPIC = "ADD_TOPIC";
+export const REMOVE_TOPIC = "REMOVE_TOPIC";
+export const EDIT_TOPIC = 'EDIT_TOPIC';
+export const EDIT_PROFNAME = "EDIT_PROFNAME"
+export const EDIT_PROFCOURSES = "EDIT_PROFCOURSES";
+export const EDIT_OFFERED_COURSES = "EDIT_OFFERED_COURSES"
+export const EDIT_OPTION_TAGS = "EDIT_OPTION_TAGS"
+export const INTIAL = "INTIAL"
+export const EDIT_TOPIC_OBJ = "EDIT_TOPIC_OBJ"
+export const EDIT_LOADER = "EDIT_LOADER"
+export const EDIT_EMAIL = "EDIT_EMAIL"
