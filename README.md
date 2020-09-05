@@ -23,7 +23,7 @@
 
 -   different folder for differnt actor - admin, student, professor   
 
--   -  in each folder compent for each actor     
+-  - in each folder compent for each actor     
 
 -   different dashboards for different actors 
 
