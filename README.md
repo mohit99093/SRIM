@@ -4,6 +4,7 @@
 -  frontend with React, material ui
 -  backend with nodejs express js, 
 -  database with Mongodb
+-  for Detail understanding already attched report and  poster
 
 ## Backend : -
 
